@@ -22,7 +22,7 @@ int main() {
     int maior, menor, pares;
 
     for (int i = 0; i < 10; i++) {
-        printf("Digite o número %d: ", i + 1);
+        printf("Digite o numero %d: ", i + 1);
         scanf("%d", &numeros[i]);
     }
 
